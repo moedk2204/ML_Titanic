@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# ---- Virtual environments ----
+venv/
+ENV/
+env/
+testenv/
+.venv/
+*.venv/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints
+*.ipynb_convert
+
+# ---- Data & logs ----
+*.log
+*.csv
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.h5
+*.pkl
+*.joblib
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- IDE settings ----
+.vscode/
+.idea/
+
+# ---- Build & dist ----
+build/
+dist/
+*.egg-info/
